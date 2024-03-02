@@ -93,7 +93,7 @@
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Ruchir_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchir-gupta-93b010186/)](https://www.linkedin.com/in/ruchir-gupta-93b010186/)&nbsp;
-  [![Outlook Badge](https://img.shields.io/badge/-gupta.ruchir@outlook.com-blue?style=flat-square&logo=Outlook&logoColor=white)](mailto:gupta.ruchir@outlook.com)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-gupta.ruchir@outlook.com-blueviolet?style=flat-square&logo=Gmail&logoColor=white)](mailto:gupta.ruchir@outlook.com)&nbsp;
 
 </div>
 
