@@ -6,9 +6,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuchirGupta-EVS&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ruchir-Gupta&color=blueviolet" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/RuchirGupta-EVS?tab=followers">
+  <a href="https://github.com/Ruchir-Gupta?tab=followers">
     <img src="https://img.shields.io/github/followers/RuchirGupta-EVS?style=social" alt="Followers" />
   </a>
 </p>
