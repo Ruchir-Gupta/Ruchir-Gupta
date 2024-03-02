@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ruchir-Gupta&color=blueviolet" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/Ruchir-Gupta?tab=followers">
-    <img src="https://img.shields.io/github/followers/RuchirGupta-EVS?style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Ruchir-Gupta?style=social" alt="Followers" />
   </a>
 </p>
 
